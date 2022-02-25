@@ -16,7 +16,7 @@
 <br/>
 
 
-<h2 align="left">Stats:</h2>
+<h2 style="margin-top: 15px;">Stats:</h2>
 
 <p style="margin: 3px" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dahan13&show_icons=true&locale=en" alt="dahan13" /></p>
 
